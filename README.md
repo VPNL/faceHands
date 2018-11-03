@@ -1,6 +1,7 @@
 # faceHands
-Code and Data for Rosenke et al. (201X) - Modeling neural tuning in human ventral temporal cortex predicts the perception of visual ambiguity. The article can be found [here](https://doi.org/10.1101/460337).
+This repository contains code and data used in [Rosenke et al. (2018) - Modeling neural tuning in human ventral temporal cortex predicts the perception of visual ambiguity. bioRxiv](https://doi.org/10.1101/460337).
 
+Data and code may be re-used with adequate citation of our study.
 
 The repository contains two folders:
 - code 
@@ -14,7 +15,7 @@ We provide all code necessary to generate the figures of the main article as wel
 
 Each script assumes that the current working directory is `faceHands/code/` and that code and data folders are not modified.
 
-**helperFunctions:** This folder contains plotting functions used for some of the scripts.
+`/helperFunctions/:` This folder contains plotting functions used for some of the scripts.
 
 `Fig1b_calibratedFaceHandLikeness.m:` This script used the mTurk ratings for face- and hand-likeness ratings and plots Figure 1b.
 
