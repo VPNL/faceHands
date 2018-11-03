@@ -42,6 +42,3 @@ This folder contains the data relevant for scripts in the `code` directory. Data
 `roiBetas.mat:` A structure matrix with ROI betas for each subject, hemisphere, ROI. Each structure contains information of the GLM results of a subject's ROI. Rows correspond to subjects, columns correspond to ROIs.
 
 `subjectColors.mat:` A color matrix that is used for the color-matched plots for individual subject dots and lines throughout the manuscript. 
-
-
-Contact [Mona Rosenke] (mailto:rosenke@stanford.edu) for questions.
